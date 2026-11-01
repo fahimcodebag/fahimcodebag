@@ -2,7 +2,7 @@
 
 **Mechatronics Engineer | Robotics, Embedded Systems & Edge AI Enthusiast**
 
-I am a Mechatronics Engineering graduate from the Rajshahi University of Engineering & Technology (RUET). I am passionate about tackling complex engineering challenges and building intelligent, efficient systems. My expertise bridges the gap between hardware and software, with a strong focus on robotics, the Internet of Things (IoT), and implementing Machine Learning on ultra-constrained edge devices (TinyML).
+I am a Mechatronics Engineering graduate from the Rajshahi University of Engineering & Technology (RUET). I am passionate about tackling complex engineering challenges and building intelligent, efficient systems. My expertise bridges the gap between hardware and software, with a strong focus on robotics, embedded systems, the Internet of Things (IoT), and implementing Machine Learning on ultra-constrained edge devices (TinyML).
 
 ### 🚀 What I Do
 - **Robotics & Simulation:** Developing robotic control systems using ROS2 (Humble), Isaac Sim, Gazebo, and MuJoCo.
