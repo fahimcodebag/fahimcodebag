@@ -16,12 +16,11 @@ I am a Mechatronics Engineering graduate from the Rajshahi University of Enginee
 * **Hardware & EDA:** STM32, ESP32, Jetson Nano, SolidWorks, AutoCAD, MATLAB
 * **Other:** Linux, RTOS, Android Studio, Git
 
-### 🏆 Highlighted Projects
-* 🦾 **[Robotic Manipulator Control with DRL & TinyML](https://github.com/fahimcodebag/pickandplace):** Multi-staged Deep Reinforcement Learning model running on a cheap ESP32 MCU using LiteRT/TFLM, featuring custom C++ serial communication and HIL validation.
-* 🚤 **[Autonomous Rescue Boat](https://github.com/fahimcodebag/undergrad_projects/tree/main/6th_semester_january_2025):** GPS-guided automated boat with an Android command interface designed for flood rescue operations.
-* 🕷️ **[Quadruped Spider Robot](https://github.com/fahimcodebag/undergrad_projects/tree/main/5th_semester_october_2024):** A four-legged robot designed for high mobility across uneven terrains. 
-* ☀️ **[Automatic Sun-Tracking Solar Panel](https://github.com/fahimcodebag/undergrad_projects/tree/main/1st_semester_september%202022):** An automated hardware system designed to continuously orient solar panels toward maximum sunlight exposure.
-
+###  Highlighted Projects
+*  **[Autonomous Rescue Boat](https://github.com/fahimcodebag/undergrad_projects/tree/main/6th_semester_january_2025):** GPS-guided automated boat with an Android command interface designed for flood rescue operations.
+*  **[Quadruped Spider Robot](https://github.com/fahimcodebag/undergrad_projects/tree/main/5th_semester_october_2024):** A four-legged robot designed for high mobility across uneven terrains. 
+*  **[stm-32_based_Voltage_and_Current_surge_protector](https://github.com/fahimcodebag/stm32-voltage-protector):** A smart safety system designed to continuously monitor the power line and trip accordingly with over voltage, under voltage and over current. Then automatically restore power connection upon detection of normal behavior. It provides both PC based and on device settings regulation.
+*  **[Robotic Manipulator Control with DRL & TinyML](https://github.com/fahimcodebag/pickandplace):** Multi-staged Deep Reinforcement Learning model running on a cheap ESP32 MCU using LiteRT/TFLM, featuring custom C++ serial communication and HIL validation.
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/fahim-faisal-0685ba202](https://www.linkedin.com/in/fahim-faisal-0685ba202)
 - **Email:** fahimfaisal06@gmail.com
