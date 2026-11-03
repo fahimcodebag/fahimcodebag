@@ -30,3 +30,5 @@ I am a Mechatronics Engineering graduate from the Rajshahi University of Enginee
 <p align="center">
   <i>Always learning, always building.</i>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=fahimcodebag&label=Profile%20views&color=0e75b6&style=flat)
