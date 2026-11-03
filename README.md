@@ -5,10 +5,10 @@
 I am a Mechatronics Engineering graduate from the Rajshahi University of Engineering & Technology (RUET). I am passionate about tackling complex engineering challenges and building intelligent, efficient systems. My expertise bridges the gap between hardware and software, with a strong focus on robotics, embedded systems, the Internet of Things (IoT), and implementing Machine Learning on ultra-constrained edge devices (TinyML).
 
 ### 👷‍♂️ Fields of experise
--**Robotics & Simulation:** Developing robotic control systems using ROS2 (Humble), Isaac Sim, Gazebo, and MuJoCo.
--**Embedded Systems & IoT:** Doing HAL and register-level programming on STM32, ESP32, ARM Cortex, and Raspberry Pi using C/C++.
--**Edge AI & Machine Learning:** Implementing Deep Reinforcement Learning (DRL), Quantization Aware Training (QAT), LLM finetuning, and RAG architectures using PyTorch, LiteRT, and TFLM. 
--**Hardware Integration:** Bringing software to life with custom hardware-in-the-loop (HIL) validation, sensor interfacing, and PCB design.
+- **Robotics & Simulation:** Developing robotic control systems using ROS2 (Humble), Isaac Sim, Gazebo, and MuJoCo.
+- **Embedded Systems & IoT:** Doing HAL and register-level programming on STM32, ESP32, ARM Cortex, and Raspberry Pi using C/C++.
+- **Edge AI & Machine Learning:** Implementing Deep Reinforcement Learning (DRL), Quantization Aware Training (QAT), LLM finetuning, and RAG architectures using PyTorch, LiteRT, and TFLM. 
+- **Hardware Integration:** Bringing software to life with custom hardware-in-the-loop (HIL) validation, sensor interfacing, and PCB design.
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** C, C++, Python, Java, Kotlin
